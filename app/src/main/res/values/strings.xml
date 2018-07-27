@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Averías</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose">Choose Image</string>
+    <string name="upload">Subir</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="notification_fail">Image failed to upload...</string>
+    <string name="notification_share_link">Compartir</string>
+    <string name="notifaction_success">Carga Completa</string>
+    <string name="notification_progress">Cargando imagen...</string>
+    <string name="accion_salir">Salir</string>
+    <string name="accion_editarusuario">Editar Usuario</string>
+
+</resources>
